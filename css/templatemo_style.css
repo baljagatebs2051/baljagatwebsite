@@ -49,6 +49,8 @@ h2 { font-size: 24px; }
 .tm-right-inner-container {
 	margin-left: 30px;
 	max-width: 710px;
+	text-align: justify;
+
 }
 .templatemo-logo { 
 	display: table;
