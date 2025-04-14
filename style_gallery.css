@@ -5,11 +5,13 @@ body {
 
 a {
     color: white;
-    text-decoration: none;
 }
 
 
 p {
+    color: white;
+}
+li{
     color: white;
 }
 
